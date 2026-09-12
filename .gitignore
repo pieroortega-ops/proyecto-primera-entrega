@@ -1,0 +1,5 @@
+build/
+cmake-build-*/
+*.o
+user_profile.txt
+data/wiki_movie_plots_deduped.csv
