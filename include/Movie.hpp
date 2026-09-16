@@ -2,9 +2,6 @@
 #include <string>
 #include <vector>
 
-// Representa una pelicula tal como viene (ya preprocesada) del CSV.
-// id: indice dentro del vector<Movie> de la base de datos (se usa como
-//     identificador unico y estable durante toda la ejecucion).
 struct Movie {
     int id = -1;
     int releaseYear = 0;
