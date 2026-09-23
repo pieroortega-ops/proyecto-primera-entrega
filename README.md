@@ -7,8 +7,6 @@
 * Piero Alejandro Ortega Capacute
 * John Dayron Blas Huete
 
-El siguiente texto debe ser eliminado en su repositorio.
-
 ---
 
 ## Plataforma de Streaming — Buscador y visualizador de sinopsis de películas
