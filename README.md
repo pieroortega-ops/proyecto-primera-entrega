@@ -3,6 +3,8 @@
 ## Integrantes (3 ó 4)
 * Dylan van Oordt Arbulú
 * Hector Sebastian Choque Dueñas
+* Camila Araceli Alfaro Chuquino
+* 
 * Nombre y Apellidos
 
 El siguiente texto debe ser eliminado en su repositorio.
