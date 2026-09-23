@@ -2,7 +2,7 @@
 
 ## Integrantes (3 ó 4)
 * Dylan van Oordt Arbulú
-* Nombre y Apellidos
+* Hector Sebastian Choque Dueñas
 * Nombre y Apellidos
 
 El siguiente texto debe ser eliminado en su repositorio.
