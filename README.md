@@ -1,11 +1,11 @@
 # Programación III: Proyecto Final (2026-2)
 
-## Integrantes (3 ó 4)
+## Integrantes (5)
 * Dylan van Oordt Arbulú
 * Hector Sebastian Choque Dueñas
 * Camila Araceli Alfaro Chuquino
-* 
-* Nombre y Apellidos
+* Piero Alejandro Ortega Capacute
+* John Dayron Blas Huete
 
 El siguiente texto debe ser eliminado en su repositorio.
 
