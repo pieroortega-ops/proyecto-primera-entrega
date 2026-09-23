@@ -1,7 +1,7 @@
 # Programación III: Proyecto Final (2026-2)
 
 ## Integrantes (3 ó 4)
-* Nombre y Apellidos
+* Dylan van Oordt Arbulú
 * Nombre y Apellidos
 * Nombre y Apellidos
 
